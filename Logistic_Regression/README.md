@@ -12,5 +12,5 @@ and the typical logistic curve as shown as following.
 
 ## All about Mathematics
 
-I have learned the fundamental theory and important equation for logistic regression from the <a href="https://www.coursera.org/learn/machine-learning">Machine Learning course</a> provided by Andrew Ng. The fundamental is essential for us get the intuition on how the logistic regression works. We can even build the machine learning models from scratch without rely on ready-use machine learning libraries.
+I have learned the fundamental theory and important equations for logistic regression from the <a href="https://www.coursera.org/learn/machine-learning">Machine Learning course</a> offered by Stanford and provided by Andrew Ng. I strongly recommend beginner to go through the course and understanding the general ideas of machine learning. The mathematics fundamental is essential for us get the intuition on how the logistic regression works. We can build the machine learning models from scratch without rely on ready-use machine learning libraries.
 
