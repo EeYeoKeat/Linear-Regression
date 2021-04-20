@@ -1,6 +1,6 @@
-# Regression Analysis
+# Mathematics behind Machine Learning
 
-In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable and one or more independent variables.
+This repository are collection of mathematics functions in machine learning algorithms that majority built from scratch without using machine learning libraries such as TensorFlow or Keras.
 
 
 
